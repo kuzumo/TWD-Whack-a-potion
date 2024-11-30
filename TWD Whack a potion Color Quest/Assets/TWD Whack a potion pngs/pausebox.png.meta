@@ -116,10 +116,10 @@ TextureImporter:
       name: pausebox_0
       rect:
         serializedVersion: 2
-        x: 7
-        y: 12
-        width: 264
-        height: 317
+        x: 12
+        y: 18
+        width: 395
+        height: 475
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

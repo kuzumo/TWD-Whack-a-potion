@@ -116,10 +116,10 @@ TextureImporter:
       name: quit btn_0
       rect:
         serializedVersion: 2
-        x: 14
-        y: 13
-        width: 128
-        height: 45
+        x: 123
+        y: 109
+        width: 987
+        height: 335
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
